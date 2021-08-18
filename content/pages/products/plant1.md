@@ -4,9 +4,11 @@ id: '1'
 price: '180'
 title: Chocozero
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Nuestro jarabe de chocolate está perfectamente endulzado con alulosa para un
+  sabor y consistencia suaves. ¡Sin importar cuáles sean tus antojos, el jarabe
+  de chocolate de es el compañero perfecto para mezclar con tus postres
+  favoritos!Ingredientes: Agua,Alulosa, Cacao organico, Vainilla, Sal de mar,
+  Benzoato de sodio.Presentacion: 300 ML
 default_thumbnail_image: images/image (5).jpg
 default_original_image: images/image (5).jpg
 featured: true
