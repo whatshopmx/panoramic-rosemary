@@ -8,7 +8,7 @@ description: >-
   sabor y consistencia suaves. ¡Sin importar cuáles sean tus antojos, el jarabe
   de chocolate de es el compañero perfecto para mezclar con tus postres
   favoritos!Ingredientes: Agua,Alulosa, Cacao organico, Vainilla, Sal de mar,
-  Benzoato de sodio.<br>Presentacion:</br> 300 ML
+  Benzoato de sodio.<b>Presentacion:</br> 300 ML
 default_thumbnail_image: images/image (5).jpg
 default_original_image: images/image (5).jpg
 featured: true
